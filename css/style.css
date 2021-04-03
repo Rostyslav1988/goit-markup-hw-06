@@ -407,7 +407,7 @@ font-style: normal;
     padding-bottom: 30px;
 }
 .welcom {
-font-weight: bold;
+font-weight: 700;
 font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.03em;
@@ -419,7 +419,7 @@ margin-bottom: 20px;
     margin-right: 10px;
 }
 .b-radius2 {
-    fill: #ffff;
+fill: #ffff;
 background: rgba(255, 255, 255, 0.1);;
 display: flex;
 justify-content: center;
@@ -491,7 +491,7 @@ transition: 250ms;
     color: #757575;
 }
 .logo-footer {
-    font-family: Raleway;
+    font-family: "Raleway";
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
