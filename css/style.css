@@ -565,6 +565,7 @@ cursor: pointer;
 position: absolute;
 right: 8px;
 top: 8px;
+outline: none;
 }
 .is-hidden {
     visibility: hidden;
