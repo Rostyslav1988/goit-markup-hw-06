@@ -674,6 +674,7 @@ padding-left: 9px;
 }
 .link-form-under {
     color: #188CE8;
+    text-decoration: underline;
 }
 
 .check-check {
