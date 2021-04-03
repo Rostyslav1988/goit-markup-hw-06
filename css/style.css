@@ -682,3 +682,67 @@ padding-left: 9px;
     padding-top: 20px;
     padding-bottom: 30px;
 }
+
+.footer-form {
+    margin-top: 10px;
+    margin-left: 104px;
+}
+.form-input-footer {
+    display: flex;
+}
+.footer-form-name {
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-bottom: 20px;
+
+}
+
+.footer-form-button {
+background: #2196F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+width: 200px;
+height: 50px;
+outline: none;
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+
+color: #FFFFFF;
+margin-left: 12px;
+padding-left: 29px;
+cursor: pointer;
+}
+
+.footer-form-email {
+    width: 358px;
+height: 50px;
+background: #2F303A;
+outline: none;
+
+border: 1px solid rgba(255, 255, 255, 0.3);
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+border-radius: 4px;
+
+color: #fff;
+
+padding-left: 16px;
+padding: 15px;
+}
+
+.footer-form-email::placeholder {
+color: rgba(117, 117, 117, 0.5);
+}
+
+.airplane {
+padding-left: 10px;
+width: 30px;
+height: 30px;
+}
